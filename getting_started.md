@@ -1,6 +1,6 @@
-## Evaluating Puppet Enterprise
+## Getting Started
 
-This repository is built to be a guideline for beginning with Puppet Enterprise.
+This page is intended to be a getting started guide for setting up the evaluation environment.
 
 
 ### Downloading Puppet Enterprise
